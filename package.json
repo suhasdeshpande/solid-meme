@@ -1,0 +1,23 @@
+{
+  "name": "egghead-io-lesson",
+  "version": "1.0.0",
+  "description": "Lessons to get better in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhasdeshpande/solid-meme.git"
+  },
+  "keywords": [
+    "angular",
+    "webpack"
+  ],
+  "author": "Suhas Deshpande",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suhasdeshpande/solid-meme/issues"
+  },
+  "homepage": "https://github.com/suhasdeshpande/solid-meme#readme"
+}
